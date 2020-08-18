@@ -10,9 +10,9 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-* file:///C:/Users/cathe/Documents/Signup%20Page.pdf
-* file:///C:/Users/cathe/Documents/Homepage_Search%20Page.pdf
-* file:///C:/Users/cathe/Documents/User%20Profile.pdf
+Signup Page.pdf
+Homepage_Search Page.pdf
+User Profile.pdf
 
 ### Project Tracker
 
