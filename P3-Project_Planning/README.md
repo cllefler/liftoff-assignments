@@ -9,10 +9,9 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-
-Signup Page.pdf
-Homepage_Search Page.pdf
-User Profile.pdf
+https://github.com/cllefler/happy-hour/blob/master/Signup%20Page.pdf
+https://github.com/cllefler/happy-hour/blob/master/Homepage_Search%20Page.pdf
+https://github.com/cllefler/happy-hour/blob/master/User%20Profile.pdf
 
 ### Project Tracker
 
